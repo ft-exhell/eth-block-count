@@ -1,0 +1,19 @@
+{
+  "name": "dodo3",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ethers": "5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-js-cron": "^3.1.0",
+    "react-scripts": "0.9.5",
+    "web3": "^1.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
